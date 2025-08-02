@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score
 import pickle
 
+
 # Load the data
 df = pd.read_csv(r'../data/Advertising.csv')
 
