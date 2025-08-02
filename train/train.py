@@ -8,7 +8,7 @@ import pickle
 
 
 # Load the data
-df = pd.read_csv(r'../data/Advertising.csv')
+df = pd.read_csv('../data/Advertising.csv')
 
 
 # Data Cleaning Function (from previous steps)
