@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score
 import pickle
 
 # Load the data
-df = pd.read_csv(r'C:\Users\ankit_aj\Desktop\MLOPS-case_studies\Demo_050725_DVC\github-action-demo\mlopse2edemo1\data\Advertising.csv')
+df = pd.read_csv(r'../data/Advertising.csv')
 
 
 # Data Cleaning Function (from previous steps)
